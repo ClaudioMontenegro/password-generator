@@ -86,8 +86,8 @@ pass_lb = Label(text="Password:", font=(FONT_TEXT, FONT_SIZE, "bold"), bg=DARK_P
 pass_lb.grid(column=0, row=3)
 
 # Buttons
-gen = PhotoImage(file="buttos/gen_bt3.png")
-add = PhotoImage(file="buttos/add2.png")
+gen = PhotoImage(file="buttons/gen_bt3.png")
+add = PhotoImage(file="buttons/add2.png")
 gen_pass_lb = Button(image=gen,
                      font=(FONT_TEXT, FONT_SIZE),
                      bg=DARK_PURPLE,
