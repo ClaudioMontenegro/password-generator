@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83fe43a4-67f0-4938-882c-08da7df0a513" name="Changes" comment="first commit from password generator program">
-      <change afterPath="$PROJECT_DIR$/buttons/add2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/buttons/gen_bt3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/password-maneger.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/buttos/add2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/buttos/gen_bt3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logo/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/logo/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-passwords/my_passwords.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pass_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/pass_generator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-passwords/my_passwords.csv" beforeDir="false" afterPath="$PROJECT_DIR$/my-passwords/my_passwords.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,14 +33,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/claud_wp/PycharmProjects/password-maneger"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/claud_wp/PycharmProjects/password-maneger&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\claud_wp\PycharmProjects\password-maneger" />
