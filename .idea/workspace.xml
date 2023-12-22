@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83fe43a4-67f0-4938-882c-08da7df0a513" name="Changes" comment="first commit from password generator program">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="83fe43a4-67f0-4938-882c-08da7df0a513" name="Changes" comment="Second commit: program improved with exceptions, search button, and JSON file.">
       <change beforePath="$PROJECT_DIR$/my-passwords/my_passwords.csv" beforeDir="false" afterPath="$PROJECT_DIR$/my-passwords/my_passwords.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-passwords/my_sites.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +63,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703199887205</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Second commit: program improved with exceptions, search button, and JSON file.">
+      <option name="closed" value="true" />
+      <created>1703268601804</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703268601804</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -80,6 +87,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit from password generator program" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit from password generator program" />
+    <MESSAGE value="Second commit: program improved with exceptions, search button, and JSON file." />
+    <option name="LAST_COMMIT_MESSAGE" value="Second commit: program improved with exceptions, search button, and JSON file." />
   </component>
 </project>
